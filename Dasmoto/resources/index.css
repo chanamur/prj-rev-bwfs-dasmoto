@@ -1,0 +1,45 @@
+.image {
+  background-image: url("pattern.jpeg");
+  }
+
+.dasmoto {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  }
+
+.categories {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.products {
+  font-weight: bold;
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+.description {
+  font-family: Helvetica;
+}
+
+.price{
+  font-weight: bold;
+  color: blue;
+}
+
+#cat1 {
+  background-color: mediumspringgreen;
+}
+
+#cat2 {
+  background-color: lightcoral;
+}
+
+#cat3 {
+  background-color: skyblue;
+}
